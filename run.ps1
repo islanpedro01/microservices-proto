@@ -1,7 +1,7 @@
 # --- Variáveis de Configuração ---
 $GITHUB_USERNAME = "islanpedro01"
 $GITHUB_EMAIL = "islanpedro.12@hotmail.com"
-$SERVICE_NAME = "order"
+$SERVICE_NAME = "payment"
 $RELEASE_VERSION = "v1.2.3"
 
 
